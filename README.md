@@ -1,11 +1,12 @@
 # newapp
 Create a share app to define issues.
 
-1. Create a header/hero area that welcomes users to the application and displays the current time and date using Moment.js with `setInterval()`.
+Welcomes users to the application and displays the current time and date using Moment.js with `setInterval()`.
 
-2. Create a Bootstrap card component explaining the instructions of how to use the app and a button to open a [Bootstrap modal dialog](https://getbootstrap.com/docs/4.5/components/modal/).
+Reference Links:
 
-3. Form for users:
+
+Form for users:
 
     * The name of the project
 
@@ -41,5 +42,6 @@ Using Moment this table takes in the following parameters.
 Awesome links in additional resources
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+https://getbootstrap.com/docs/4.5/components/modal/
 https://www.jqueryscript.net/time-clock/Simple-jQuery-Calendar-Schedule-Plugin-For-Bootstrap-Bic-Calendar.html
 
