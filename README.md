@@ -8,28 +8,9 @@ Reference Links:
 
 Form for users:
 
-    * The name of the project
-
-    * The type of project (use a `<select>` drop-down)
-
-    * The hourly wage for the project
-
-    * The due date for the project (use jQuery UI's datepicker with a minimum date setting in place)
 
 ##Incorporate Moment.js
-Using Moment this table takes in the following parameters.
-
-    * Project name
-
-    * Project type
-
-    * Hourly wage
-
-    * Due date
-
-    * Days until the due date (use Moment.js to calculate)
-
-    * Estimated total earned (hourly wage at 8 hours per day multiplied by the number of days until the due date)
+Using Moment to create this table.
 
 ###Skills Displayed
 
