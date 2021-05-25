@@ -9,7 +9,7 @@ let timeStamp = $("#currentDay");
 timeStamp.text(moment().format("dddd, MMMM Do, YYYY"));
 
 //added color coding to time blocks
-let timeColor = $(".block");
+let timeColor = $(".timeblock");
 var getTime = (moment().format("H"));
 
 console.log(getTime);
