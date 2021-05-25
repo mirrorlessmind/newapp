@@ -3,6 +3,7 @@
 
 let saveButton = $(".btn");
 
+
 //Moment used to display current day on top.
 let timeStamp = $("#currentDay");
 timeStamp.text(moment().format("dddd, MMMM Do, YYYY"));
@@ -43,4 +44,5 @@ function saveEvent(event) {
 
 
 
-saveButton.on("click", saveEvent)
+saveButton.on("click", saveEvent);
+
