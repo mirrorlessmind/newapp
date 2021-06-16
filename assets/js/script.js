@@ -1,7 +1,7 @@
 //Cigi Tipton Schedule
 //Help from TA
 
-let saveButton = $(".btn");
+let saveButton = $(".saveBtn");
 
 
 //Moment used to display current day on top.
